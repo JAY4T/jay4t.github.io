@@ -4,3 +4,5 @@
 #### Jabulani Youths For Transformation is a resource platform that supports young people in personal development, enterprise creation, and making positive change in their communities, by leveraging their talent skills and knowledge.
 ## Our Vision
 #### Jabulani Youths For Transformation envisions a generation of young people transforming Africa and living up to their lives purposes. A community where everyone is empowered to work with each other to take action and build sustainable solutions for common challenges.
+## Our Mission
+#### To alleviate poverty, improve welfare, promote good governance, nurture talents and contribute to environmental conservation.
