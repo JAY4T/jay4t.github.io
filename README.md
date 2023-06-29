@@ -12,3 +12,6 @@
 - Sustainability
 - Transformation
 - collective engagement
+## Our Employment Social Enterprises
+- Kaa Kazini
+- Sotetule
