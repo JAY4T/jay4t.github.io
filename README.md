@@ -1,4 +1,4 @@
-theme: minima
+theme: Jekyll-theme-minima
 ![my image](https://github.com/JAY4T/jay4t.github.io/assets/7679952/235b4021-b5a4-481e-a805-de127e181b73)
 # JAY4T
 ## About Us
