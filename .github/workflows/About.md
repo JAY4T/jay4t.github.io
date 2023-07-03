@@ -1,6 +1,6 @@
 layout: page
 title: About
-permalink: https://jay4t.github.io/about
+permalink: https://jay4t.github.io/about.md
 # OUR PROGRAMS
 #### Social Entreprise Co-creation
 - Building community-owned social enterprises
