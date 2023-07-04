@@ -15,4 +15,3 @@
 ## Our Employment Social Enterprises
 - Kaa Kazini
 - Sotetule
-https://jay4t.github.io/about.html
