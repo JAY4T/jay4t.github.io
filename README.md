@@ -1,5 +1,5 @@
 # JAY4T
-![my image](https://github.com/JAY4T/jay4t.github.io/assets/7679952/0df960d4-db0c-451e-a8b3-ae22252772a5)
+![my image](https://github.com/JAY4T/jay4t.github.io/assets/7679952/80f45b7c-6d69-4de5-9019-7a10494cc1a7)
 ## About Us
 #### Jabulani Youths For Transformation is a resource platform that supports young people in personal development, enterprise creation, and making positive change in their communities, by leveraging their talent skills and knowledge.
 ## Our Vision
