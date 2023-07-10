@@ -15,3 +15,5 @@
 ## Our Employment Social Enterprises
 - Kaa Kazini
 - Sotetule
+<a href="path/to/other/page.html">Link to another page</a>
+
