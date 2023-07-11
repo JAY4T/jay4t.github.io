@@ -15,5 +15,5 @@
 ## Our Employment Social Enterprises
 - Kaa Kazini
 - Sotetule
-[About us](About.md)
+[More info](About.md)
 
