@@ -21,9 +21,5 @@
 - Kaa Kazini
 - Sotetule
 [More info](About.md)
-#### Table of Contents
-- [Jabulani Youths for Transformation](#jabulani-youths-for-transformation)
-- [About us](#about-us)
-- [Our Mission](#our-mission)
-- [Our Vision](#Our-vision)
+
   
