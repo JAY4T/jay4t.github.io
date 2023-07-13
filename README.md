@@ -3,6 +3,7 @@
 - [About us](#about-us)
 - [Our Mission](#our-mission)
 - [Our Vision](#Our-vision)
+  
   [More info](About.md)
 
   # Jabulani Youths for Transformation
