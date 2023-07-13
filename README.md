@@ -18,7 +18,7 @@
 [More info](About.md)
 #### Table of Contents
 
-- [Jabulani Youths for Transformation](#underline)
-- [About us](##indent)
-- [Our Mission](##center)
-- [Our Vision](##color)
+- [Jabulani Youths for Transformation](#Jabulani Youths for Transformation)
+- [About us](##About Us)
+- [Our Mission](##Our Mission)
+- [Our Vision](##Our Vision)
