@@ -1,4 +1,4 @@
- # Jabulani Youths for Transformation
+# Jabulani Youths for Transformation
 ![my image](https://github.com/JAY4T/jay4t.github.io/assets/7679952/80f45b7c-6d69-4de5-9019-7a10494cc1a7)
 
 ### Table of Contents
