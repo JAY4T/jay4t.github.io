@@ -3,4 +3,6 @@
 #### Youth development - involving young people in the Positive Youth Development program has resulted in a mindset shift about vocation and employment. Over 600 young people mentored through our program have gained more clarity on what careers and business opportunities they are keen to explore and pursue.
 #### Engagement and collaboration - our programs within Kisumu Central and Kisumu East Sub-Counties have led to increasing collaboration, community engagement, and contribution to social, economic, and environmental challenges among young people.
 [Home](README.md)
+
+
 <font color="red">This text is red!</font>
