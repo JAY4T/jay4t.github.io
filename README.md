@@ -19,6 +19,7 @@
 #### Table of Contents
 
 - [Jabulani Youths for Transformation](#Jabulani Youths for Transformation)
-- [About us](##About Us)
+- [About us](##about Us)
 - [Our Mission](##Our Mission)
 - [Our Vision](##Our Vision)
+- [Heading IDs](#heading-ids)
